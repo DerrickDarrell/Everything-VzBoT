@@ -1,5 +1,6 @@
-I recreated the VzBoT CNC Printhead for upcoming modifications to the 235 and 330 printers.
+I recreated the VzBoT CNC XY Joints for upcoming modifications to the 235 and 330 printers.
 
 
+<img width="1256" height="1011" alt="ApplicationFrameHost_lB5Dr9VBcq" src="https://github.com/user-attachments/assets/96e5576a-9351-45b3-a809-59df0475e1eb" />
 
-<img width="1238" height="1488" alt="ApplicationFrameHost_r1elHQicw1" src="https://github.com/user-attachments/assets/dd3ca1a2-4ab5-473e-ae84-8c88f8aa4720" />
+
