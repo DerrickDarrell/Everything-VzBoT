@@ -1,4 +1,4 @@
-I recreated the VzBoT CNC XY Joints for upcoming modifications to the 235 and 330 printers.
+I recreated the VzBoT CNC XY Joints to assist in upcoming modifications to the 235 and 330 printers.
 
 
 
